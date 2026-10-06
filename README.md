@@ -84,6 +84,17 @@ EDA was performed to investigate relationships between:
 
 The analysis showed that delivery performance depends on multiple operational factors rather than distance alone.
 
+### Delivery Time Distribution
+![Delivery Time Distribution](images/delivery_time_distribution.png)
+
+### Distance vs Delivery Time
+![Distance vs Delivery Time](images/distance_vs_delivery_time.png)
+
+### Regression Model Comparison
+![Regression Model Comparison](images/regression_comparison.png)
+
+### K-Means Clustering
+![K-Means Clustering](images/kmeans_clustering.png)
 ---
 
 ## 🤖 Predictive Modeling
